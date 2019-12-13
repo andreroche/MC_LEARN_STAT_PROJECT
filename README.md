@@ -15,12 +15,12 @@ Copy/Save the entire contents of the folder to your machine. From the terminal, 
 
 1. Course notes and videos, GMIT Machine Learning 
 
-Textbooks:
+### Textbooks:
 1. Introduction to Machine Learning with Python, O'Reilly, Chapter 2, Supervised Learning, pages 42 -51 ISBN 978-1-491-91721-3
 2. Deep Learning with Python, Francois Chollet, Chapter 3, Getting started with neural networks pages 85-90 ISBN 9781617294433
 
 
-Internet:
+### Internet:
 1. https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
 
 2. https://www.kaggle.com/prasadperera/the-boston-housing-dataset
@@ -52,7 +52,7 @@ Internet:
 14. https://books.google.ie/books?id=xt31OYzJxnoC&pg=PA48&lpg=PA48&dq=is+there+a+significant+difference+in+house+prices+along+the+charlestown+river&source=bl&ots=B8s7FxzWI3&sig=ACfU3U0vtos29wjsIL_QskWXXHY0lu97UQ&hl=en&sa=X&ved=2ahUKEwizq9vQ9e7lAhXuSxUIHYLRC90Q6AEwD3oECAgQAQ#v=onepage&q=is%20there%20a%20significant%20difference%20in%20house%20prices%20along%20the%20charlestown%20river&f=false
 
 
-keras:
+### keras:
 15. https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
 
 16. https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras
